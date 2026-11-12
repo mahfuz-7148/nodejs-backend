@@ -1,0 +1,8 @@
+# Project exclude paths
+/node_modules/
+/node_modules/.pnpm/@types+node@26.6.6/node_modules/@types/node/LICENSE
+/node_modules/.pnpm/@types+node@26.6.6/node_modules/@types/node/README.md
+/node_modules/.pnpm/@types+node@26.6.6/node_modules/@types/node/test/
+/node_modules/.pnpm/tsx@4.23.15/node_modules/tsx/
+/node_modules/.pnpm/undici-types@8.9.0/node_modules/undici-types/LICENSE
+/node_modules/.pnpm/undici-types@8.9.0/node_modules/undici-types/README.md
